@@ -1,0 +1,2 @@
+# CQRS_Pattern_MediatR
+CQRS_Pattern_MediatR
